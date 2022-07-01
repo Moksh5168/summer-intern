@@ -1,0 +1,47 @@
+<footer class="footer">
+        <div class="footer1">
+            <div class="row">
+                <div class="col">
+                    company
+                    <br>
+                    <pre>
+                        near,204 copper leaf,opp. parshwanath Jain mandir,AEC Char Rasta,Bhuyangdev,Ahmedabad,Gujarat 380061
+                    </pre>
+                    <div class="line">
+                </div>
+            </div>
+            <div class="col">Navigate</div>
+            <div class="line"></div>
+            <div class="col1">
+                <ul>
+                    <li type="none"><a href="home.html">Home</a></li>
+                    <li type="none"><a href="about.html">ABOUT</a></li>
+                    <li type="none"><a href="activities.html">ACTIVIIES</a></li>
+                    <li type="none"><a href="blog.html">BLOG</a></li>
+                    <li type="none"><a href="projects.html">PROJECTS</a></li>
+                    <li type="none"><a href="contacts.html">CONTACTS</a></li>
+                </ul>
+            </div>
+        </div>
+        <div class="links">
+            <a href="#"><i class="fab fa-facebook-f"></i></a>
+            <a href="#"><i class="fab fa-instagram"></i></a> 
+            <a href="#"><i class="fab fa-twitter"></i></a>
+            <a href="#"><i class="fab fa-linkdin-in"></i></a>   
+        </div>
+        <div class="col1">
+            <i class="fas fa-envelope fa-2x"></i>
+            <h3>Email</h3>
+            <a href="mailto:softcodingsolutions@gmail.com" class="new">softcodingsolutions@gmail.com</a>
+        </div>
+        <br>
+        <div>
+            <i class="fas fa-phone fa-2x"></i>
+            <h3>Phone</h3>
+            <a href="tel:+915555566655"class="new">+91555556655</a>
+            </div>
+            </div>
+        </div>
+        <p class="footer-copyright">Copyright & copy;2022 Reserved</p>
+        </footer>
+    
